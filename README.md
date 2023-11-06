@@ -39,5 +39,5 @@ Others: Git (GitHub/GitLab) | Linux | Microservices Architecture | OAuth | CI/CD
 <h3 align="left">I'm currently learning:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" **alt="Golang" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js"  alt="Next.js" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot"  alt="Spring Boot" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 </div>
