@@ -45,4 +45,4 @@ Others: Git (GitHub/GitLab) | Linux | Microservices Architecture | OAuth | CI/CD
 
 <!-- ![snake animation](https://github.com/Delaney/Delaney/blob/output/github-contribution-grid-snake.gif) -->
 
-![](https://komarev.com/ghpvc/?username=Delaney&color=grey)
+<!-- ![](https://komarev.com/ghpvc/?username=Delaney&color=grey) -->
