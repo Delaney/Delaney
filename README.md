@@ -43,6 +43,6 @@ Others: Git (GitHub/GitLab) | Linux | Microservices Architecture | OAuth | CI/CD
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot"  alt="Spring Boot" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 </div>
 
-![snake animation](https://github.com/Delaney/Delaney/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake animation](https://github.com/Delaney/Delaney/blob/output/github-contribution-grid-snake.gif) -->
 
 ![](https://komarev.com/ghpvc/?username=Delaney&color=grey)
