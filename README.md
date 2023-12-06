@@ -29,8 +29,9 @@ Others: Git (GitHub/GitLab) | Linux | Microservices Architecture | OAuth | CI/CD
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" **alt="Composer" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React.js" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue.js" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Vue" alt="Next.js" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
@@ -41,3 +42,8 @@ Others: Git (GitHub/GitLab) | Linux | Microservices Architecture | OAuth | CI/CD
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" **alt="Golang" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot"  alt="Spring Boot" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 </div>
+
+
+![Snake animation](https://github.com/Delaney/Delaney/blob/output/github-contribution-grid-snake.svg)
+
+![](https://komarev.com/ghpvc/?username=Delaney&color=grey)
