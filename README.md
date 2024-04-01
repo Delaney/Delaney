@@ -1,7 +1,6 @@
 ### Hello!
 
-I love to code, and I'm passionate about building cool stuff that improves the quality of life. I could try this more interesting, but I like it because it's the simple truth.
-
+I love to code, and I'm passionate about building cool stuff that improves the quality of life. I also try to [write](https://medium.com/@astorrex) a little on the side.
 <!--
 **Delaney/Delaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
